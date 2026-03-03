@@ -1,0 +1,8 @@
+﻿Django==6.0.2
+pandas>=2.2.0
+numpy>=1.26.0
+scikit-learn>=1.4.0
+gunicorn>=22.0.0
+whitenoise>=6.8.0
+dj-database-url>=2.2.0
+psycopg2-binary>=2.9.9
